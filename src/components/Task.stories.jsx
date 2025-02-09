@@ -3,8 +3,8 @@ import { fn } from "@storybook/test";
 import Task from './Task';
 
 export const ActionsData = {
-    onArchiveTask: fn(),
-    onPinTask: fn(),
+  onArchiveTask: fn(),
+  onPinTask: fn(),
 };
 
 export default {
